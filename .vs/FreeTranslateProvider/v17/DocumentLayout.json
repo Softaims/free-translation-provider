@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Softaims\\Code\\FreeTranslateProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslateprovider.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslateprovider.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslatelanguagedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslatelanguagedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslateprovider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslateprovider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\free translateoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:free translateoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslateproviderwinformsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslateproviderwinformsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslateproviderconfdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslateproviderconfdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|D:\\Softaims\\Code\\FreeTranslateProvider\\freetranslateproviderconfdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslateproviderconfdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\freetranslatecredentialsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslatecredentialsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|D:\\Softaims\\Code\\FreeTranslateProvider\\freetranslatecredentialsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:freetranslatecredentialsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|d:\\softaims\\code\\freetranslateprovider\\pluginpackage.manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{484E45CA-7484-46BB-AB70-BE031AAC3FFB}|FreeTranslateProvider.csproj|solutionrelative:pluginpackage.manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FreeTranslateLanguageDirection.cs",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateLanguageDirection.cs",
+              "RelativeDocumentMoniker": "FreeTranslateLanguageDirection.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateLanguageDirection.cs",
+              "RelativeToolTip": "FreeTranslateLanguageDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:26:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FreeTranslateProvider.cs",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProvider.cs",
+              "RelativeDocumentMoniker": "FreeTranslateProvider.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProvider.cs",
+              "RelativeToolTip": "FreeTranslateProvider.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA7wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:17:39.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FreeTranslateProvider.csproj",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProvider.csproj",
+              "RelativeDocumentMoniker": "FreeTranslateProvider.csproj",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProvider.csproj",
+              "RelativeToolTip": "FreeTranslateProvider.csproj",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T06:48:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreeTranslateProvider",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProvider.csproj",
+              "RelativeDocumentMoniker": "FreeTranslateProvider.csproj",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProvider.csproj",
+              "RelativeToolTip": "FreeTranslateProvider.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T18:03:42.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Free TranslateOptions.cs",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\Free TranslateOptions.cs",
+              "RelativeDocumentMoniker": "Free TranslateOptions.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\Free TranslateOptions.cs",
+              "RelativeToolTip": "Free TranslateOptions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwEIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:10:25.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FreeTranslateProviderWinFormsUl.cs",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProviderWinFormsUl.cs",
+              "RelativeDocumentMoniker": "FreeTranslateProviderWinFormsUl.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProviderWinFormsUl.cs",
+              "RelativeToolTip": "FreeTranslateProviderWinFormsUl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:07:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FreeTranslateProviderConfDialog.cs",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProviderConfDialog.cs",
+              "RelativeDocumentMoniker": "FreeTranslateProviderConfDialog.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProviderConfDialog.cs",
+              "RelativeToolTip": "FreeTranslateProviderConfDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:40:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FreeTranslateProviderConfDialog.cs [Design]",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProviderConfDialog.cs",
+              "RelativeDocumentMoniker": "FreeTranslateProviderConfDialog.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateProviderConfDialog.cs [Design]",
+              "RelativeToolTip": "FreeTranslateProviderConfDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:58:59.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FreeTranslateCredentialsDialog.cs",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateCredentialsDialog.cs",
+              "RelativeDocumentMoniker": "FreeTranslateCredentialsDialog.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateCredentialsDialog.cs",
+              "RelativeToolTip": "FreeTranslateCredentialsDialog.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:40:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pluginpackage.manifest.xml",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\pluginpackage.manifest.xml",
+              "RelativeDocumentMoniker": "pluginpackage.manifest.xml",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\pluginpackage.manifest.xml",
+              "RelativeToolTip": "pluginpackage.manifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-04T16:21:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FreeTranslateCredentialsDialog.cs [Design]",
+              "DocumentMoniker": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateCredentialsDialog.cs",
+              "RelativeDocumentMoniker": "FreeTranslateCredentialsDialog.cs",
+              "ToolTip": "D:\\Softaims\\Code\\FreeTranslateProvider\\FreeTranslateCredentialsDialog.cs [Design]",
+              "RelativeToolTip": "FreeTranslateCredentialsDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:19:45.434Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

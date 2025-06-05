@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeTranslateProvider", "FreeTranslateProvider.csproj", "{484E45CA-7484-46BB-AB70-BE031AAC3FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484E45CA-7484-46BB-AB70-BE031AAC3FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484E45CA-7484-46BB-AB70-BE031AAC3FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484E45CA-7484-46BB-AB70-BE031AAC3FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484E45CA-7484-46BB-AB70-BE031AAC3FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {582116C5-58CD-46FC-B113-6845E1AE50CA}
+	EndGlobalSection
+EndGlobal
